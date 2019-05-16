@@ -1,4 +1,5 @@
-# freeCodeCamp Technical Documentation Page
+# UNIX Tutorial for Beginners
+### freeCodeCamp Responsive Web Design Projects
 
 An example of a technical documentation page, build for freeCodeCamp's *"Responsive Web Design Certification"*. For this project I used [Michael Stonebank's UNIX Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/). Putting this together proved to be an excellent way to cover the material again and build a basic understanding of UNIX.
 
